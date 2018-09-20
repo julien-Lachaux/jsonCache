@@ -1,5 +1,5 @@
 {
-  "name": "jsoncache",
+  "name": "@julien-lachaux/jsoncache",
   "version": "1.0.0",
   "description": "",
   "main": "build/jsonCache.js",
